@@ -49,3 +49,17 @@ h3 {
     flex-direction: row;
   }
 }
+/* Images Styling */
+
+/* Uncomment to use this styling, this ensures that the size of the image matches whatever container width they are placed in, this rescales for changing viewport
+img {
+  width: 100%; 
+}
+*/
+
+main img {
+  width: 100%;
+}
+
+
+
